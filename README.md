@@ -1,4 +1,4 @@
-🎵 #**Análisis del Top 50 de LATAM en Spotify – Web Scraping & API**
+🎵 **#Análisis del Top 50 de LATAM en Spotify – Web Scraping & API**
 
 Este proyecto extrae y analiza las canciones más populares en Latinoamérica, utilizando web scraping para obtener los IDs de las canciones del Top 50 de cada país, y luego accediendo a la API de Spotify para recopilar información detallada sobre cada canción.
 
